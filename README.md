@@ -1,4 +1,4 @@
-VidurDiwate / README.md
+
 ==========================
 
 # Hello!!!!! 👋 I'm Vidur, & I'm all about solving problems with Data and Machine Learning.
