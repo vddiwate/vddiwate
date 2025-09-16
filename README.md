@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## Aspiring Data Scientist from India
+## Batchelor in Computer Engineering & Aspiring AI & ML Engineer | Data Science Enthusiast | SQL 
 
 ![Student](https://img.shields.io/badge/-Student-grey) 
 ![Computer Engineering](https://img.shields.io/badge/-Computer%20Engineering-blue) 
