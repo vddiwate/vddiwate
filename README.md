@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## Batchelor in Computer Engineering & Aspiring AI & ML Engineer | Data Science Enthusiast | SQL 
+## AI Engineer | Generative AI & LLM Solutions | LangChain • LangGraph • RAG | Python • FastAPI  
 
 ![Student](https://img.shields.io/badge/-Student-grey) 
 ![Computer Engineering](https://img.shields.io/badge/-Computer%20Engineering-blue) 
